@@ -1,0 +1,6 @@
+aiogram==3.*
+fastapi
+uvicorn
+sqlalchemy
+requests
+python-dotenv
